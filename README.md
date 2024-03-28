@@ -33,7 +33,7 @@ I am a Data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles and I practice various kinds of sports going from football (Soccer) to martial arts practices.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/kylian-wildane-nzokou/) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kylian-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/kylian-wildane-nzokou/) 
 
 ---
 
