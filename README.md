@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kYXU5emtpZHdidGFhbWJ4bHJ3Nm00aW5ieHk1cWVzdjY1bnBiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/kylian-wildane-nzokou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
